@@ -1,11 +1,10 @@
 import React from "react";
+import "./App.css";
 
 const App = () => {
   return (
     <div className="container">
-      <div className="box">
-        <h1>Hello from Jaxongir</h1>
-      </div>
+      <div className="box"></div>
     </div>
   );
 };
